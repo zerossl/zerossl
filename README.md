@@ -7,16 +7,16 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 **🔑 ACME Clients**  
 * [acme.sh](https://github.com/zerossl/zerossl/blob/master/README.md#acmesh)  
 * [dehydrated](https://github.com/zerossl/zerossl/blob/master/README.md#dehydrated)  
-* [win-acme](https://github.com/zerossl/zerossl/blob/master/README.md#winacme)  
-* [acme-companion](https://github.com/zerossl/zerossl/blob/master/README.md#acmecompanion)  
+* [win-acme](https://github.com/zerossl/zerossl/blob/master/README.md#win-acme)  
+* [acme-companion](https://github.com/zerossl/zerossl/blob/master/README.md#acme-companion)  
 * [getssl](https://github.com/zerossl/zerossl/blob/master/README.md#getssl)  
 * [acmephp](https://github.com/zerossl/zerossl/blob/master/README.md#acmephp)  
-* [auto-ssl](https://github.com/zerossl/zerossl/blob/master/README.md#autossl)  
+* [auto-ssl](https://github.com/zerossl/zerossl/blob/master/README.md#auto-ssl)  
   
 **🌐 Webserver**  
-* [Caddy Server](https://github.com/zerossl/zerossl/blob/master/README.md#caddyserver)  
-* [nginx-proxy](https://github.com/zerossl/zerossl/blob/master/README.md#nginxproxy)  
-* [Ponzu CMS](https://github.com/zerossl/zerossl/blob/master/README.md#ponzucms)  
+* [Caddy Server](https://github.com/zerossl/zerossl/blob/master/README.md#caddy-server)  
+* [nginx-proxy](https://github.com/zerossl/zerossl/blob/master/README.md#nginx-proxy)  
+* [Ponzu CMS](https://github.com/zerossl/zerossl/blob/master/README.md#ponzu-cms)  
 
   ---
     
