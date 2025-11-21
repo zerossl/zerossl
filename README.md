@@ -2,8 +2,24 @@
 
 ZeroSSL actively supports and contributes to the open-source ecosystem by maintaining and integrating tools for SSL/TLS automation.  
 This list includes popular ACME clients and web servers that simplify certificate management and enable secure deployments.  
-Explore these projects to find solutions for automated HTTPS, containerized environments, and modern web infrastructure.
+Explore these projects to find solutions for automated HTTPS, containerized environments, and modern web infrastructure.  
 
+**🔑 ACME Clients**  
+* [acme.sh](https://github.com/zerossl/zerossl/blob/master/README.md#acmesh)  
+* [dehydrated](https://github.com/zerossl/zerossl/blob/master/README.md#dehydrated)  
+* [win-acme](https://github.com/zerossl/zerossl/blob/master/README.md#winacme)  
+* [acme-companion](https://github.com/zerossl/zerossl/blob/master/README.md#acmecompanion)  
+* [getssl](https://github.com/zerossl/zerossl/blob/master/README.md#getssl)  
+* [acmephp](https://github.com/zerossl/zerossl/blob/master/README.md#acmephp)  
+* [auto-ssl](https://github.com/zerossl/zerossl/blob/master/README.md#autossl)  
+  
+**🌐 Webserver**  
+* [Caddy Server](https://github.com/zerossl/zerossl/blob/master/README.md#caddyserver)  
+* [nginx-proxy](https://github.com/zerossl/zerossl/blob/master/README.md#nginxproxy)  
+* [Ponzu CMS](https://github.com/zerossl/zerossl/blob/master/README.md#ponzucms)  
+
+  ---
+    
 # 🔑 ACME Clients
 
 ## acme.sh
@@ -31,8 +47,8 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 | 📅 Established  | 2016     |
   
 ## acme-companion  
-![](https://img.shields.io/badge/Project%20Status-Active-brightgreen) 
-[acme-companion]https://github.com/nginx-proxy/acme-companion works alongside nginx-proxy to automate SSL/TLS certificate issuance and renewal via ACME.  
+![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)   
+[acme-companion](https://github.com/nginx-proxy/acme-companion) works alongside nginx-proxy to automate SSL/TLS certificate issuance and renewal via ACME.  
 | | |
 |-----------------|---------:|
 | ⭐ Stars        | 7k       |
@@ -40,14 +56,14 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
   
 ## getssl  
 ![](https://img.shields.io/badge/Project%20Status-Outdated-lightgrey)  
-[getssl](https://github.com/serverco/getssl) provides lightweight server orchestration and SSL/TLS automation for containerized environments.  
+[getssl](https://github.com/srvrco/getssl) provides lightweight server orchestration and SSL/TLS automation for containerized environments.  
 | | |
 |-----------------|---------:|
 | ⭐ Stars        | 1k       |
 | 📅 Established  | 2017     |
   
 ## acmephp  
-![](https://img.shields.io/badge/Project%20Status-Outdated-lightgrey)
+![](https://img.shields.io/badge/Project%20Status-Outdated-lightgrey)  
 [AcmePHP](https://github.com/acmephp/acmephp) is a PHP-based ACME client for automating SSL/TLS certificate issuance and renewal.  
 | | |
 |-----------------|---------:|
@@ -56,7 +72,7 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
   
 ## auto-ssl  
 ![](https://img.shields.io/badge/Project%20Status-Abandoned-orange)   
-[auto-ssl](https://github.com/auto-ssl/auto-ssl) is a Lua-based module for NGINX that automatically provisions and renews SSL certificates via ACME.  
+[auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) is a Lua-based module for NGINX that automatically provisions and renews SSL certificates via ACME.  
 | | |
 |-----------------|---------:|
 | ⭐ Stars        | 1.5k     |
@@ -74,7 +90,7 @@ Explore these projects to find solutions for automated HTTPS, containerized envi
 | 📅 Established  | 2016     |
 
 ## nginx-proxy
-![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
+![](https://img.shields.io/badge/Project%20Status-Active-brightgreen)  
 [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) is a containerized reverse proxy solution for NGINX, designed to automatically configure virtual hosts using environment variables.  
 | | |
 |-----------------|---------:|
